@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+header {
+  text-align: center;
+  background: #aedb75;
+  padding: 20px 0;
+}
+
+header nav ul li {
+  display: inline;
+}
+
+header nav a {
+  color: #3b4562;
+  font-size: 24px;
+  text-decoration: none;
+  margin: 0 20px
+}
+
+header nav a:hover {
+  color: white;
+}
+
+header nav a:active {
+  color: #64869f
+}
