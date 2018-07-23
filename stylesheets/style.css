@@ -78,11 +78,18 @@ header nav a:active {
 
 .breeds img {
   width: 900px;
-  height: 600px;
-  padding-left: : 100px 0;
-  padding-right: 100px 0;
 }
 
 .breeds {
   text-align: center;
+}
+
+footer {
+  font-family: 'Chelsea Market', cursive;
+  text-align: center;
+  background: #aedb75;
+  padding: 8px 0;
+  position: fixed;
+  left: 0;
+  right: 0;
 }
