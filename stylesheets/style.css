@@ -70,3 +70,19 @@ header nav a:active {
   font-size: 40px;
   text-align: center;
 }
+
+.breeds {
+  width: 250px;
+  display: inline-block;
+}
+
+.breeds img {
+  width: 900px;
+  height: 600px;
+  padding-left: : 100px 0;
+  padding-right: 100px 0;
+}
+
+.breeds {
+  text-align: center;
+}
